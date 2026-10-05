@@ -1,14 +1,57 @@
 //21 Count vowels and consonants in a string.
+// const str = "hello world";
+// Vowels: 3
+// Consonants: 7
+
 //22 Count the frequency of every character.
+// const str = "hello";
+// {
+// h: 1,
+// e: 1,
+// l: 2,
+// o: 1
+// }
+
 //23 Find the first non-repeating character.
+// const str = "aabbcdd";
+// c
+
 //24 Find the first repeating character.
+// const str = "abcdaef";
+// a
+
 //25 Remove duplicate characters from a string.
+// const str = "programming";
+// "progamin"
+
 //26 Find the second-smallest number.
+// const arr = [5, 2, 8, 1, 9, 3];
+// 2
+
 //27 Find the average of an array.
+// const arr = [10, 20, 30, 40, 50];
+// 30
+
 //28 Count even and odd numbers.
+// const arr = [1, 2, 3, 4, 5, 6, 7];
+// Even: 3
+// Odd: 4
+
 //29 Find positive, negative and zero values.
+// const arr = [-2, 5, 0, -7, 3, 0, 8];
+// Positive: 3
+// Negative: 2
+// Zero: 2
+
 //30 Find the missing number from 1...n.
+// const arr = [1, 2, 3, 5, 6];
+// 4
+
 //31 Find common elements between two arrays.
+// const arr1 = [1, 2, 3, 4, 5];
+// const arr2 = [3, 4, 5, 6, 7];
+// [3, 4, 5]
+
 
 
 // let str = "hello";
