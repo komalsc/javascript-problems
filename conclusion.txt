@@ -1,0 +1,57 @@
+You now have a good progression:
+
+1–10 → Basic logic
+Reverse string
+Palindrome
+Largest/smallest
+Second largest
+Duplicates
+Frequency
+Non-repeating character
+Sum
+
+11–20 → Arrays + objects
+Even/odd
+Square
+Filter objects
+Get names
+Find by ID
+Sorting
+Object sorting
+Array comparison
+Flatten array
+
+21–31 → String + array logic
+Vowels/consonants
+Character frequency
+Repeating/non-repeating characters
+Remove duplicate characters
+Second smallest
+Average
+Even/odd count
+Positive/negative/zero
+Missing number
+Common elements
+
+32–50 → Most important next-level practical questions
+Longest word
+Reverse each word
+Anagram
+Move zeros
+Pair sum
+All pair sums
+Intersection
+Union
+Most frequent element
+Longest substring
+Highest-paid employee
+Filter employees
+Group objects
+Remove duplicate objects
+Convert array to object
+Array difference
+Array rotation
+Consecutive sequence
+Debounce
+
+For your 4-hour practical interview, I would particularly make sure you can code #32, #34–36, #40–46 and #50 without looking at the solution. These test the kind of array/object/string logic that commonly comes up in a frontend JavaScript practical round.
